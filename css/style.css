@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+}
+
+.nav{
+    background-color: #B5D9EF;
+    align-center: 80%;
+    height: 60px;
+    margin: auto;
+    }
+    
+    ul{
+        list-style-type: none;
+        display: inline;
+        float: right;
+        }
+        li{
+            display: inline-block;
+            padding: 5px 10px 5px 10px;
+            font-size: 15px;
+            font-family: Tahoma;
+
+        }
+.wrap{
+width: 1000px;
+margin: auto;
+margin-top: 40px;
+
+}
+
+.card{
+    box-shadow: 0 4px 0 rgba(0, 0, 0, 0.6);
+    width: 300px;
+    background: #fff;
+    text-align: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    float: left;
+    margin: 15px;
+}
+
+.card:hover{
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+
+}
+container{
+        padding: 2px 16px;
+
+}
